@@ -1,0 +1,14 @@
+blockquote {
+    background-color: #e0e4e5;
+    border-left: 11px solid #6458c0;
+    padding: 1em;
+    margin: 1em 0;
+    overflow-x: auto;
+    white-space: pre-wrap;      /* CSS3 */   
+    white-space: -moz-pre-wrap; /* Firefox */    
+    white-space: -pre-wrap;     /* Opera <7 */   
+    white-space: -o-pre-wrap;   /* Opera 7 */    
+    word-wrap: break-word;   
+    width: 36rem;
+    height: 6rem;
+}
